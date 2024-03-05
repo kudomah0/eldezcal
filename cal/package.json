@@ -1,0 +1,26 @@
+{
+  "name": "elcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudomah0/elcal.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "eldez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kudomah0/elcal/issues"
+  },
+  "homepage": "https://github.com/kudomah0/elcal#readme",
+  "dependencies": {
+    "eldez-tea": "^1.1.2",
+    "rubygems": "^1.0.3"
+  }
+}
