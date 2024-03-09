@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kudomah0/elcal.git"
+    "url": "git+https://github.com/kudomah0/eldezcal.git"
   },
   "keywords": [
     "calculator"
@@ -16,9 +16,9 @@
   "author": "eldez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kudomah0/elcal/issues"
+    "url": "https://github.com/kudomah0/eldezcal/issues"
   },
-  "homepage": "https://github.com/kudomah0/elcal#readme",
+  "homepage": "https://github.com/kudomah0/eldezcal#readme",
   "dependencies": {
     "eldez-tea": "^1.1.2",
     "rubygems": "^1.0.3"
