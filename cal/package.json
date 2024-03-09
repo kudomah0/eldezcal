@@ -1,6 +1,6 @@
 {
   "name": "elcalculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/kudomah0/eldezcal#readme",
   "dependencies": {
     "eldez-tea": "^1.1.2",
+    "eldez-ttt": "^1.2.8",
     "rubygems": "^1.0.3"
   }
 }
